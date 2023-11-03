@@ -39,4 +39,3 @@ Start the app in debug mode by executing the following command:
 ```command
 cindy:api src> yarn debug
 ```
-
